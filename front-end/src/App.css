@@ -1,0 +1,11 @@
+.job-box {
+  margin: 1%;
+  padding: 1%;
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+}
+.job-box > div {
+  width: 30%;
+  margin: 1%;
+}
